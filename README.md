@@ -1,2 +1,2 @@
 # consa-chants
-slack-bot to returnning consa chants
+slack-bot for returnning consa chants
